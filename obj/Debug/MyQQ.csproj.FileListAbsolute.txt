@@ -1,0 +1,9 @@
+G:\VSProject\MyQQ\bin\Debug\MyQQ.exe.config
+G:\VSProject\MyQQ\bin\Debug\MyQQ.exe
+G:\VSProject\MyQQ\bin\Debug\MyQQ.pdb
+G:\VSProject\MyQQ\obj\Debug\MyQQ.csprojAssemblyReference.cache
+G:\VSProject\MyQQ\obj\Debug\MyQQ.Properties.Resources.resources
+G:\VSProject\MyQQ\obj\Debug\MyQQ.csproj.GenerateResource.cache
+G:\VSProject\MyQQ\obj\Debug\MyQQ.csproj.CoreCompileInputs.cache
+G:\VSProject\MyQQ\obj\Debug\MyQQ.exe
+G:\VSProject\MyQQ\obj\Debug\MyQQ.pdb
